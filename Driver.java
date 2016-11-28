@@ -1,10 +1,3 @@
-/*
- * Machine Learning of Text Mining
- * Homework 6
- * Zhun Chen
- * czhun
- * */
-
 package CollaborativeRanking;
 
 import java.util.*;
